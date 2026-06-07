@@ -1,0 +1,2 @@
+# Yue
+.Para_Ti {   position: absolute;   width: 90%;   font-size: 2rem;   font-family: "Te Amo";   height: var(--letter-love);   transform: translateX(-50%);   background: var(--letter); }
